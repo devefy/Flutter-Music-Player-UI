@@ -1,4 +1,4 @@
-# Flutter Music Interface Ui Concept
+# Flutter Music Interface UI Concept
 
 ![](assets/preview.jpg)
 
