@@ -1,5 +1,5 @@
 # music_player
-![](assets/preview.png)
+![](assets/preview.jpg)
 
 ## Getting Started
 
