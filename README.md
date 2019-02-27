@@ -4,7 +4,7 @@
 
 Watch the Video on Youtube - [Youtube Video](https://youtu.be/GD3jbAPe_XY)
 
-Also Don't Forget to Subscribe My youtube Channel - [Youtube Channel](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w)
+Also Don't Forget to Subscribe to My youtube Channel - [Youtube Channel](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w)
 
 Check out our premium themes - [Flutter Source Code](http://fluttersourcecode.com)
 
