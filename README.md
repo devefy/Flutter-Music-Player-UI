@@ -1,6 +1,5 @@
 # music_player
-
-A new Flutter project.
+![](assets/preview.png)
 
 ## Getting Started
 
